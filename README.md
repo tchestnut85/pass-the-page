@@ -1,6 +1,6 @@
 # Pass The Page
 
-This project was created as an assignment for the UPenn LPS Fullstack Developer Bootcamp 
+  <a href='./LICENSE'>![License](https://img.shields.io/badge/License%3A-MIT-green.svg)</a>  <a href="https://budget-app-tc.herokuapp.com/">![Deployed App](https://img.shields.io/badge/Deployed%20App-blue.svg)</a>
 
 ## Contributors
 This project was created and devleoped by
